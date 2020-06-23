@@ -2,3 +2,5 @@ Hola mundo
 
 Mi nombre es Edgardo 
 Y esta es una modificacion
+
+Aprendiendo Frontend en Platzi
