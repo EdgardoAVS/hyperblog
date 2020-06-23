@@ -4,3 +4,5 @@ Mi nombre es Edgardo
 Y esta es una modificacion
 
 Aprendiendo Frontend en Platzi
+
+Con ganas de ser un Frontend Developer
